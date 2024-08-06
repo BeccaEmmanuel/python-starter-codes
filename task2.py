@@ -1,3 +1,4 @@
+#A simple python code that manipulate string using method operate
 print("rebecca emmanuel".title())
 
 print(" ")
