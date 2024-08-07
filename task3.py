@@ -9,3 +9,4 @@ print(" ")
 price = 500,30,10
 coke,fanta,spirite = price
 print("The prices of all the drink are coke: {} * fanta: {} * spirite: {}".format(coke,fanta,spirite))
+print(type(price))
